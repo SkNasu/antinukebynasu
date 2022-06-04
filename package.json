@@ -1,0 +1,21 @@
+{
+  "name": "antinukebynasu",
+  "version": "1.0.0",
+  "description": "a protection bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protection",
+    "discord-bot",
+    "Nasu"
+  ],
+  "author": "Nasu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.3"
+  }
+}
